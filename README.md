@@ -21,7 +21,8 @@ This project focuses on Dialog modeling and conversational AI/ML task. The Blend
 
 5. Results and Discussions:
    
-    • Results and discussion are in the final report
+    • Results and discussion are in the final report.
+    • Raw Evaluation outputs are in the Evaluation_outputs folder.
 7. Key references:
    
     1. Roller, Stephen, et al. "Recipes for building an open-domain chatbot." arXiv preprint arXiv:2004.13637 (2020).
